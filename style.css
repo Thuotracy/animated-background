@@ -27,3 +27,7 @@
     cursor: pointer;
     transition: 0.2s;
 }
+
+.dark .sun{
+    left: 45%;
+}
