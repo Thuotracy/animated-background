@@ -1,6 +1,5 @@
-const sun = document.querySelector('sun');
-const moon = document.querySelector('body');
-
+const sun = document.querySelector('.sun');
+const body = document.querySelector('body');
 sun.onclick = function(){
-    body.classList.toggle('dark')
-}
+body.classList.toggle('dark')
+}   
