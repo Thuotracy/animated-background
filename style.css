@@ -7,6 +7,7 @@
 .scene{
     position: relative;
     height: 100vh;
+    overflow-x: hidden;
     background: linear-gradient(#a6d8ff,#fff,#fff);
 }
 
@@ -50,8 +51,18 @@
     width: 100%;
     height: 280px;
     background: url(bg.png);
+    animation: animateBg 25s linear infinite;
     background-size: 1500px;
     background-repeat: repeat-x;
+}
+
+@keyframes animateBg{
+    0%{
+        background-position-x: 0px;
+    }
+    100%{
+        background-position-x: -1500px;
+    }
 }
 
 .car1{
@@ -69,5 +80,23 @@
     }
     90%, 100%{
         transform: translateX(calc(100vw + 200px));
+    }
+}
+
+.car2{
+    position: absolute;
+    right: -200px;
+    bottom: 50px;
+    max-width: 200px;
+    z-index: 9;
+    animation: car2 12s linear infinite;
+}
+
+@keyframes car2{
+    0%{
+        transform: translate(0px) rotateY(180deg);
+    }
+    90%, 100%{
+        transform: translateX(calc(-100vw - 200px)) rotateY(180deg);
     }
 }
