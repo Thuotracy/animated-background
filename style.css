@@ -43,3 +43,13 @@
     background-color: #222833;
     border-radius: 50%;
 }
+
+.bg{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 280px;
+    background: url(bg.png);
+    background-size: 1500px;
+    background-repeat: repeat-x;
+}
