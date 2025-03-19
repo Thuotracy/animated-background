@@ -1,8 +1,7 @@
 ## ANIMATED BACKGROUND
 
 ## Description
-An animated background, when you click on the sun it changes to night mode and vice versa.
-
+An animated background that switches between day and night mode when you click on the sun.
 ## Technologies Used
 * HTML
 * CSS
