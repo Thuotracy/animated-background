@@ -1,4 +1,4 @@
-## STARRY NIGHT BACKGROUND
+## ANIMATED BACKGROUND
 
 ## Description
 A mesmerizing starry night background featuring a deep, dark sky illuminated by countless twinkling stars.
