@@ -9,7 +9,7 @@ An animated background, when you click on the sun it changes to night mode and v
 * JavaScript
 
 ## Live link
-https://thuotracy.github.io/starry-night/
+https://thuotracy.github.io/animated-background/
 
 ## Support and contact details
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
