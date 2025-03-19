@@ -1,8 +1,7 @@
 ## ANIMATED BACKGROUND
 
 ## Description
-A mesmerizing starry night background featuring a deep, dark sky illuminated by countless twinkling stars.
-
+An animated background, when you click on the sun it changes to night mode and vice versa
 ## Technologies Used
 * HTML
 * CSS
