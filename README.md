@@ -1,5 +1,4 @@
 ## ANIMATED BACKGROUND
-
 ## Description
 An animated background that switches between day and night mode when you click on the sun.
 
